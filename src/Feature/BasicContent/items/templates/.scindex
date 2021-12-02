@@ -1,0 +1,271 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Accordion Item Folder.yml
+ID: "8fb2c42c-b950-4be3-b1c6-8ba7f11b2ed8"
+Parent: "8336f1ec-e218-4461-9c81-e3e11dd19a3d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item Folder
+Signature: TuC+V7h3+P7ZdUKuEWgkr6pLd02RmlbX6oV8teJHR1k=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent.yml
+ID: "8336f1ec-e218-4461-9c81-e3e11dd19a3d"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/BasicContent
+Signature: qaEquswAO7Hi9H//zRp1cy+hUl472XAPwK/XpyQ7NB0=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Accordion Item.yml
+ID: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Parent: "8336f1ec-e218-4461-9c81-e3e11dd19a3d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item
+Signature: m/j1dz8RnAcjxSlBt4H8iuyi0Rxl+hjYEQPxlJ56D/4=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Hero Banner Folder.yml
+ID: "456f5066-3169-4cda-b827-ed0917a75776"
+Parent: "8336f1ec-e218-4461-9c81-e3e11dd19a3d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner Folder
+Signature: qYKR5GvROdPRgxpxn+WJbzvW9GvbbEwMccEysFZ1G40=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Hero Banner.yml
+ID: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Parent: "8336f1ec-e218-4461-9c81-e3e11dd19a3d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner
+Signature: 1sVmxFoED3t7VzTLLjX2a1AV8w2iKc2tjlkPMsYYOWY=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Promo Card Folder.yml
+ID: "40a33364-f008-476a-95ad-22efc6e4d93e"
+Parent: "8336f1ec-e218-4461-9c81-e3e11dd19a3d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Promo Card Folder
+Signature: +zejxSh/iESOmLVtN+xir7FsKRwRDM9+kuQyWFL7R9I=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Promo Card.yml
+ID: "b0d7dedc-8908-4fd0-9b1a-a1501d03d485"
+Parent: "8336f1ec-e218-4461-9c81-e3e11dd19a3d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Promo Card
+Signature: dm24K42Qvfx9O4eHuOoCSTTtDEkUNXSgvAZXUlrKXXo=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Section Header Folder.yml
+ID: "1ae158e5-e120-4875-b560-b76e90c64065"
+Parent: "8336f1ec-e218-4461-9c81-e3e11dd19a3d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Section Header Folder
+Signature: jnIXGH+G+IeCjmTRkQhkeh5SX8IZv57jrweWN+pLpSo=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Section Header.yml
+ID: "fcb0ba21-9aaa-45f8-b86c-738fb269e06f"
+Parent: "8336f1ec-e218-4461-9c81-e3e11dd19a3d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Section Header
+Signature: p7/wJ/0DSbIeE0xAv3cY7eKvBG7e00xyqwa0gJCY9Fc=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Accordion Item\Accordion Item.yml
+ID: "19d45025-3e1e-4c50-9ea4-6d335ede66e2"
+Parent: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item/Accordion Item
+Signature: emOlap6CcLLQN/F8BGgmC0qHSs9s6vA6Hv1dLVZmCyc=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Accordion Item Folder\__Standard Values.yml
+ID: "4dd9ca55-01af-4a83-bd53-c1793da769e4"
+Parent: "8fb2c42c-b950-4be3-b1c6-8ba7f11b2ed8"
+Template: "8fb2c42c-b950-4be3-b1c6-8ba7f11b2ed8"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item Folder/__Standard Values
+Signature: iQGtNWEyUt1IVegdgD9c8QC0NutZ2jcwPZOZC1rCCwo=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Hero Banner\Banner.yml
+ID: "a5c01c92-af57-4a88-bf47-b778a7eb7bad"
+Parent: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/Banner
+Signature: oUf2eHTL+IYmRe+i4KfimiBaeT6QppXGbI9iKpVhQTg=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Hero Banner\__Standard Values.yml
+ID: "eeafadce-cfcf-4734-90c1-4361482b1674"
+Parent: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Template: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/__Standard Values
+Signature: v3FUfc/RJzOAqRqAqFoA0Vg7ezx5/TgcylWpNYa+MMI=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Hero Banner Folder\__Standard Values.yml
+ID: "e4c81f19-7cac-4bd8-9f2f-1bdf32658c59"
+Parent: "456f5066-3169-4cda-b827-ed0917a75776"
+Template: "456f5066-3169-4cda-b827-ed0917a75776"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner Folder/__Standard Values
+Signature: xbg2pj5VxqhjIwhsRTL3JoTzwkoPcAslWo0vlyp3Lpc=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Promo Card\Promo Card.yml
+ID: "53404e08-91b7-4694-9abb-1049bc8889e7"
+Parent: "b0d7dedc-8908-4fd0-9b1a-a1501d03d485"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Promo Card/Promo Card
+Signature: iXcEvM7rC8jQYDGnwZSnyDv5bxmL8IIePEyXF761TWI=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Promo Card\__Standard Values.yml
+ID: "050934c3-f5fa-4d05-a582-b3f27da903e3"
+Parent: "b0d7dedc-8908-4fd0-9b1a-a1501d03d485"
+Template: "b0d7dedc-8908-4fd0-9b1a-a1501d03d485"
+Path: /sitecore/templates/Feature/BasicContent/Promo Card/__Standard Values
+Signature: xRKQQ8w2vfMXieF6YBfUR6EjMCsANFfA4zNEXSH+lkM=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Promo Card Folder\__Standard Values.yml
+ID: "e8877720-2084-43b0-ae5f-3f71eab93daa"
+Parent: "40a33364-f008-476a-95ad-22efc6e4d93e"
+Template: "40a33364-f008-476a-95ad-22efc6e4d93e"
+Path: /sitecore/templates/Feature/BasicContent/Promo Card Folder/__Standard Values
+Signature: hu4nKwi4tu/BBnTK3GCDS3nWhXmG20NpRsOYD7noRpE=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Section Header\__Standard Values.yml
+ID: "9d161ec5-1e4b-48b4-8980-87a37f3ace66"
+Parent: "fcb0ba21-9aaa-45f8-b86c-738fb269e06f"
+Template: "fcb0ba21-9aaa-45f8-b86c-738fb269e06f"
+Path: /sitecore/templates/Feature/BasicContent/Section Header/__Standard Values
+Signature: OJUa8yqDj8XHAUZF+9tvrnxfK2qSjWtMezJCd9hzBig=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Section Header\Header.yml
+ID: "05df965d-a799-47ba-94c8-3b3b8dcaec36"
+Parent: "fcb0ba21-9aaa-45f8-b86c-738fb269e06f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Section Header/Header
+Signature: JrPwu08MwjOvgfcwRF8AUW0GHG/7uV4EIvIjpmCjeCE=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Section Header Folder\__Standard Values.yml
+ID: "b35d0c5d-cabc-4d79-bfb5-3612bf8c5738"
+Parent: "1ae158e5-e120-4875-b560-b76e90c64065"
+Template: "1ae158e5-e120-4875-b560-b76e90c64065"
+Path: /sitecore/templates/Feature/BasicContent/Section Header Folder/__Standard Values
+Signature: DquyYyC2T7NT/FnMFMqvyO65yQDP45cyRUP3vcLYsF4=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Accordion Item\Accordion Item\Content.yml
+ID: "45efe66e-5ad2-4f1d-bad5-fdf281688681"
+Parent: "19d45025-3e1e-4c50-9ea4-6d335ede66e2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item/Accordion Item/Content
+Signature: GybeoPm3gmqXUVYpuQbvh5FT58oGucyEkTNkss0hADM=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Hero Banner\Banner\Image.yml
+ID: "b5f61442-ff0f-46a5-90a8-d6d387de24a0"
+Parent: "a5c01c92-af57-4a88-bf47-b778a7eb7bad"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/Banner/Image
+Signature: J/F9M1BN4mU+e7Hd8LpEbo9823l0VCXDbhqYXGNf+Hc=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Accordion Item\Accordion Item\Title.yml
+ID: "5718e787-142b-41d9-b5a1-0b18f45b8236"
+Parent: "19d45025-3e1e-4c50-9ea4-6d335ede66e2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item/Accordion Item/Title
+Signature: fpC/A3hpvQUwVVCMgu7DGfr2hdNhsi+Q4LjCOB9J8PQ=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Hero Banner\Banner\Subtitle.yml
+ID: "89b0a8ed-0ee8-4512-b518-ab2c4c2a0b9e"
+Parent: "a5c01c92-af57-4a88-bf47-b778a7eb7bad"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/Banner/Subtitle
+Signature: Ftilv8PGEPX72rW0Kg3C6+OT3SiGb+nuHQ9AIpeOdkk=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Hero Banner\Banner\Title.yml
+ID: "5179186c-b95e-4e97-95ab-7958721a9aeb"
+Parent: "a5c01c92-af57-4a88-bf47-b778a7eb7bad"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/Banner/Title
+Signature: HAX1Qa9tcNbMibx7R1cNwQu+AO1HKvAma6PknvVprl8=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Promo Card\Promo Card\Image.yml
+ID: "21249f44-5f0f-4cfa-9474-8d72930d6575"
+Parent: "53404e08-91b7-4694-9abb-1049bc8889e7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Promo Card/Promo Card/Image
+Signature: WknGApO1EJkB4O54yIR2IelpBq9HHh1HnxCFlSoRAjI=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Promo Card\Promo Card\Headline.yml
+ID: "4f73c02b-93cc-4c96-b9ff-9d0d8e853ed6"
+Parent: "53404e08-91b7-4694-9abb-1049bc8889e7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Promo Card/Promo Card/Headline
+Signature: Nzmb0WDZHagrN6R8xQPefiHje004jZyCzEWPffdO3xE=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Promo Card\Promo Card\Link.yml
+ID: "b788e8bc-e944-4a2b-a4be-3424643d322b"
+Parent: "53404e08-91b7-4694-9abb-1049bc8889e7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Promo Card/Promo Card/Link
+Signature: Oa0HH8eGZaGNbBtBFkiLJsULjUKNyPDN2Qhlv/pelfA=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Promo Card\Promo Card\Text.yml
+ID: "13eb8dca-281d-4e75-b6e1-701ca719bcd1"
+Parent: "53404e08-91b7-4694-9abb-1049bc8889e7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Promo Card/Promo Card/Text
+Signature: BOCcs/0Jt1/QMePAZnxGMUt9TkhHxpgmhqMTmy4gruo=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\templates\BasicContent\Section Header\Header\Text.yml
+ID: "59d24d0a-f955-4988-b26f-92039b4df8bd"
+Parent: "05df965d-a799-47ba-94c8-3b3b8dcaec36"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Section Header/Header/Text
+Signature: d/oPonAP1f7fOWdEyWXRMckMj9yhEBX7xWo9DdTi3dU=
+Modified: 637739733448182141

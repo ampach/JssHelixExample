@@ -1,0 +1,136 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Folder Types.yml
+ID: "425840b6-ea99-4187-a1a4-f8f8635050d6"
+Parent: "0572cb61-15af-4384-b5b9-3da870519c97"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Demo/Folder Types
+Signature: OQRmH5oIWtaoPqtWz7LqCPnLR0VjtvIpBDnW00zf/VI=
+Modified: 637739742836893663
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo.yml
+ID: "0572cb61-15af-4384-b5b9-3da870519c97"
+Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Demo
+Signature: qaEquswAO7Hi9H//zRp1cy+hUl472XAPwK/XpyQ7NB0=
+Modified: 637739742835850291
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Folder Types\Page Component Folder.yml
+ID: "7ba26fb3-7ab2-4e09-bb5a-e9d6cd048bba"
+Parent: "425840b6-ea99-4187-a1a4-f8f8635050d6"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Demo/Folder Types/Page Component Folder
+Signature: 6Efi6I59pXi3+G9fECRrr5Qf28deZvN6KYve9114ZbA=
+Modified: 637739742837886027
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types.yml
+ID: "69acb668-b447-4aff-8b94-e9844f095054"
+Parent: "0572cb61-15af-4384-b5b9-3da870519c97"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Demo/Page Types
+Signature: nYrLNiKAYqr8NG+OBY2nXiipQHAoqcRMsme/P0avVcI=
+Modified: 637739742838216317
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types\Page.yml
+ID: "68c367d4-4543-44c3-8567-184a7f593b18"
+Parent: "69acb668-b447-4aff-8b94-e9844f095054"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Demo/Page Types/Page
+Signature: T25DxpGobalvCrc4aoZC7/Bk6e/PNxuhLaG2JljMeGs=
+Modified: 637739742837835989
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types\Home Page.yml
+ID: "63cd29ba-0e08-44d5-ab10-e05298a9818d"
+Parent: "69acb668-b447-4aff-8b94-e9844f095054"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Demo/Page Types/Home Page
+Signature: JohNU7gkGjS4/kvrc8u7ONDC9POcFDucgTUdDuxge+E=
+Modified: 637739742837293652
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types\Product List Page.yml
+ID: "9f57204e-5ce2-4fe8-98f7-9823ec53e8cc"
+Parent: "69acb668-b447-4aff-8b94-e9844f095054"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Demo/Page Types/Product List Page
+Signature: sHyM7sLnDsqXWSQhdYVYpyl7KJEhadF/JHkGpwFXfN4=
+Modified: 637739742838561248
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types\Product Detail Page.yml
+ID: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Parent: "69acb668-b447-4aff-8b94-e9844f095054"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Demo/Page Types/Product Detail Page
+Signature: nBZc3skh6iXgkKR9UkxGeGMwz3gOixQIkDZmmpCnNo8=
+Modified: 637739742838325722
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Folder Types\Page Component Folder\__Standard Values.yml
+ID: "7c0bd868-8863-4bc4-af40-6317ff6129b2"
+Parent: "7ba26fb3-7ab2-4e09-bb5a-e9d6cd048bba"
+Template: "7ba26fb3-7ab2-4e09-bb5a-e9d6cd048bba"
+Path: /sitecore/templates/Project/Demo/Folder Types/Page Component Folder/__Standard Values
+Signature: FOYTewIX1C+MflPzoZhzZoyfHqNypS0Iue0qDRGZVdw=
+Modified: 637739742834968317
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types\Services Page.yml
+ID: "81651c92-cf17-4751-9c9e-af87e3c2918c"
+Parent: "69acb668-b447-4aff-8b94-e9844f095054"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Demo/Page Types/Services Page
+Signature: icnXwDMjCqI95zmdmmYIxne0TVIJprxutcKY4rv2msY=
+Modified: 637739742839251856
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types\Product Detail Page\__Standard Values.yml
+ID: "c937dd95-eb7e-4f00-ba48-7b5f1cd998c8"
+Parent: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Template: "fa3971f5-5a1b-4477-b64e-ca99949e8894"
+Path: /sitecore/templates/Project/Demo/Page Types/Product Detail Page/__Standard Values
+Signature: pE5q1vxiuONJAv2ZUJweB9im1WOH3LO3bACnQ4qMCV0=
+Modified: 637739742835073623
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types\Home Page\__Standard Values.yml
+ID: "74ddd1ff-6a17-4c25-ad3f-bb99331fae1f"
+Parent: "63cd29ba-0e08-44d5-ab10-e05298a9818d"
+Template: "63cd29ba-0e08-44d5-ab10-e05298a9818d"
+Path: /sitecore/templates/Project/Demo/Page Types/Home Page/__Standard Values
+Signature: zd5Zj3yP3nOJx8t3eJ3kTdAqg0Aa5q5fQ7yBdky+Txc=
+Modified: 637739742834938340
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types\Services Page\__Standard Values.yml
+ID: "b99ffd6f-5371-4fdb-9e54-2b336a863957"
+Parent: "81651c92-cf17-4751-9c9e-af87e3c2918c"
+Template: "81651c92-cf17-4751-9c9e-af87e3c2918c"
+Path: /sitecore/templates/Project/Demo/Page Types/Services Page/__Standard Values
+Signature: lS2N0rOLznVk5//FBQqf/2xcnr4PMvfchEpZjf2lz58=
+Modified: 637739742835008336
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types\Page\__Standard Values.yml
+ID: "dc0340a4-1dd6-4ba8-bdd4-8b2cd141c6c8"
+Parent: "68c367d4-4543-44c3-8567-184a7f593b18"
+Template: "68c367d4-4543-44c3-8567-184a7f593b18"
+Path: /sitecore/templates/Project/Demo/Page Types/Page/__Standard Values
+Signature: LN50FXRTEqlDsWtjuhZxo6gt24nf4r81CoCRxw5yEXM=
+Modified: 637739742834908324
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\templates\Demo\Page Types\Product List Page\__Standard Values.yml
+ID: "7e915ddb-ceaa-498a-8cf1-9ff6585a982b"
+Parent: "9f57204e-5ce2-4fe8-98f7-9823ec53e8cc"
+Template: "9f57204e-5ce2-4fe8-98f7-9823ec53e8cc"
+Path: /sitecore/templates/Project/Demo/Page Types/Product List Page/__Standard Values
+Signature: Wes2NUN+FDU6oeDFbp67dj9sMMXFxfzo3C/Vdo32w1M=
+Modified: 637739742835039296

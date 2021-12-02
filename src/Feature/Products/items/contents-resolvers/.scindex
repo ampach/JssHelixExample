@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Products\items\contents-resolvers\Products.yml
+ID: "cebfa804-440e-4891-a8cc-8dc51057667a"
+Parent: "c626493f-1cc3-4986-a701-f28b83d649f7"
+Template: "1404a77a-d5fd-46b3-aa4c-200f3d519979"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Products
+Signature: jrY+snm0otHxUylzcfB7VefXLeW+NaYo0hecmZTPKIg=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Products\items\contents-resolvers\Products\Product List.yml
+ID: "a32713f8-fd74-49bf-9833-d7ed5064a33b"
+Parent: "cebfa804-440e-4891-a8cc-8dc51057667a"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Products/Product List
+Signature: eQ4g8fRXnkyoInRhcr+nEqugip2b4HcIBOh6WbnfgZU=
+Modified: 637739742838415716

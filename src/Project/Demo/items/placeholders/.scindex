@@ -1,0 +1,91 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\placeholders\Demo.yml
+ID: "eddde41d-5bc6-494c-b3d6-71a728a51668"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/Demo
+Signature: LF0inhIbGvdvwrMGX9K4dFq6bp1Fn/fi6azK0skHY+4=
+Modified: 637739742835708925
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\placeholders\Demo\Footer.yml
+ID: "8f9ef757-d682-45a8-a929-849df1ecd820"
+Parent: "eddde41d-5bc6-494c-b3d6-71a728a51668"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Demo/Footer
+Signature: 8FVYw1v9bDOwxil/lbabkmfT7OF0J73BSJyV7ztVqS8=
+Modified: 637739742836943665
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\placeholders\Demo\Accordion.yml
+ID: "f184d081-f435-4fc0-a1a0-1846562c2a7a"
+Parent: "eddde41d-5bc6-494c-b3d6-71a728a51668"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Demo/Accordion
+Signature: 20Y6Gi3fllsZPPtNe418ZOgypvXBxuAx+7sq6fItCSg=
+Modified: 637739742835489453
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\placeholders\Demo\Main Layout.yml
+ID: "97aae0e8-b193-4903-b191-325c34796fbf"
+Parent: "eddde41d-5bc6-494c-b3d6-71a728a51668"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Demo/Main Layout
+Signature: dsxQJ50VyGSfpXpWnE7LhzGgc/qbkhiczPbJpyLGXrg=
+Modified: 637739742837568424
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\placeholders\Demo\Header.yml
+ID: "dd7d2519-67d7-4cf8-88da-3f81c4673b52"
+Parent: "eddde41d-5bc6-494c-b3d6-71a728a51668"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Demo/Header
+Signature: JYR66SNRalhwKvuza6HX1VUkySrBNjLyrPTV8y3nwxc=
+Modified: 637739742837114383
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\placeholders\Demo\Product List Page.yml
+ID: "191cb3ee-083a-4b87-92f3-4453cadb64d3"
+Parent: "eddde41d-5bc6-494c-b3d6-71a728a51668"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Demo/Product List Page
+Signature: ChMTOgtILgdX3Ae1+xtEdzGNcCSIrACPvXOLwmmq0yQ=
+Modified: 637739742838601246
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\placeholders\Demo\Product Detail Page.yml
+ID: "d0873573-9e5f-43f6-a6eb-43b688c32421"
+Parent: "eddde41d-5bc6-494c-b3d6-71a728a51668"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Demo/Product Detail Page
+Signature: 3k3jXZXDyZCa8O8a3I+93IaltdRXQEnpxfNYtFvpM+c=
+Modified: 637739742838365716
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\placeholders\Demo\Testimonial Container.yml
+ID: "922c12a7-080d-4ebd-aff9-2302c245fbc8"
+Parent: "eddde41d-5bc6-494c-b3d6-71a728a51668"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Demo/Testimonial Container
+Signature: HAsu3LaW0uVtox/gWYl2EwCCYtkX310GUteKB6w0hS8=
+Modified: 637739742839632372
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\placeholders\Demo\Promo Container.yml
+ID: "7ae58298-ed22-4b45-a73b-0efd2480e25a"
+Parent: "eddde41d-5bc6-494c-b3d6-71a728a51668"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Demo/Promo Container
+Signature: zQ/CpxBrDCr9PDcbiAldsvMm+zoMHpa84cHnaYkT1WI=
+Modified: 637739742838909623
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\placeholders\Demo\Services Page.yml
+ID: "342765b2-1783-479b-8cff-cebed5e6a5e4"
+Parent: "eddde41d-5bc6-494c-b3d6-71a728a51668"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Demo/Services Page
+Signature: oCqwPxT8U/OvfQv0b3UwCTaMMmF06rAKaHMji8wUpcM=
+Modified: 637739742839320101

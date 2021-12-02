@@ -1,0 +1,64 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\renderings\BasicContent.yml
+ID: "85445e31-0c0a-4e0b-ab7d-ec5a0dbc79c6"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/BasicContent
+Signature: ZfPzZucixO+HD/YFpEP0Z31aw0yRPh87R1a/BtR7PN0=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\renderings\BasicContent\Accordion Item.yml
+ID: "30a19167-a179-4a8e-9b52-5408671c4f58"
+Parent: "85445e31-0c0a-4e0b-ab7d-ec5a0dbc79c6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/BasicContent/Accordion Item
+Signature: DxDX3eBQiW9Je8+zQruNP9qlCMdNNd98MFN2E7bkXOY=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\renderings\BasicContent\Accordion.yml
+ID: "abb770ac-0240-40e9-8f11-43a1a0d7596c"
+Parent: "85445e31-0c0a-4e0b-ab7d-ec5a0dbc79c6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/BasicContent/Accordion
+Signature: v5nr+W1qoR7Muwn8QkRjKrjBegkq84D4v/ZxNDfmEf0=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\renderings\BasicContent\Hero Banner.yml
+ID: "f8cae35c-3dd6-42cd-a4da-4223027a6a61"
+Parent: "85445e31-0c0a-4e0b-ab7d-ec5a0dbc79c6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/BasicContent/Hero Banner
+Signature: oOAXzZ/pJ3PU0YgYVKaHzDjFo2bRSBDifWh7eBGMFnM=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\renderings\BasicContent\Promo Card.yml
+ID: "c0234b7a-b7f4-4018-b0d8-998d14efeac1"
+Parent: "85445e31-0c0a-4e0b-ab7d-ec5a0dbc79c6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/BasicContent/Promo Card
+Signature: +vw/7t/g/LiwZvUwUapQNTwzrdbtyAfg81tnNOV3vrk=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\renderings\BasicContent\Promo Container.yml
+ID: "ecd6cea8-4ef8-4bb6-a588-7a77df2b299c"
+Parent: "85445e31-0c0a-4e0b-ab7d-ec5a0dbc79c6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/BasicContent/Promo Container
+Signature: EnugL4OVG/Arlf1WgZnqsw5UaKIvppCYxvQ2OyPyTjg=
+Modified: 637739733448071593
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\BasicContent\items\renderings\BasicContent\Section Header.yml
+ID: "9a917cc7-d85c-418b-b44c-38d70c1cb432"
+Parent: "85445e31-0c0a-4e0b-ab7d-ec5a0dbc79c6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/BasicContent/Section Header
+Signature: oaWSCQMM7BI5qjWTnrSGQNaE5LQXUCBgRE+1vHorXKw=
+Modified: 637739733448071593

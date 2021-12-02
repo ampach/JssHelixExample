@@ -1,0 +1,73 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\templates\Services\Testimonial Folder.yml
+ID: "092a159d-93df-4c49-9226-9abe5bcbc7aa"
+Parent: "c1537b62-b7fa-4896-a463-c2890ad5a082"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Services/Testimonial Folder
+Signature: Wj75haDrltB6qF+Q7mH2WgftFlRDOFn06YJ5MZpb3mo=
+Modified: 637739733448338538
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\templates\Services.yml
+ID: "c1537b62-b7fa-4896-a463-c2890ad5a082"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Services
+Signature: qaEquswAO7Hi9H//zRp1cy+hUl472XAPwK/XpyQ7NB0=
+Modified: 637739733448338538
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\templates\Services\Testimonial\Testimonial.yml
+ID: "d9cd3637-208e-4fde-a721-96c3cbb797f2"
+Parent: "ec97b156-adfa-4e37-89d8-789637fb6f1b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Services/Testimonial/Testimonial
+Signature: K/Jcs63ZvZxoy3vDhJTu/7Sn8wUIS9rHnxbukiRJajY=
+Modified: 637739733448338538
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\templates\Services\Testimonial.yml
+ID: "ec97b156-adfa-4e37-89d8-789637fb6f1b"
+Parent: "c1537b62-b7fa-4896-a463-c2890ad5a082"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Services/Testimonial
+Signature: YPjbfkp4kc3np4pGIvDFdDcV6fQXIlq97G3GT6146r8=
+Modified: 637739733448338538
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\templates\Services\Testimonial\Testimonial\Image.yml
+ID: "bf949588-0a7d-4452-9188-a298b40c0ed3"
+Parent: "d9cd3637-208e-4fde-a721-96c3cbb797f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Services/Testimonial/Testimonial/Image
+Signature: ZnX/QWZpwzBz1clRwWCir1r7YeFVneU0ngKpckZN0ZA=
+Modified: 637739733448338538
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\templates\Services\Testimonial Folder\__Standard Values.yml
+ID: "689a62a4-10c6-4ea9-b93a-27953f9fe397"
+Parent: "092a159d-93df-4c49-9226-9abe5bcbc7aa"
+Template: "092a159d-93df-4c49-9226-9abe5bcbc7aa"
+Path: /sitecore/templates/Feature/Services/Testimonial Folder/__Standard Values
+Signature: pU8wpGcJXkrGV3a/A5qg9Bhh8wJRpIzGCP84Tb2hPCc=
+Modified: 637739733448338538
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\templates\Services\Testimonial\Testimonial\Title.yml
+ID: "5ab05255-0825-4e6d-974b-623cd926e6fd"
+Parent: "d9cd3637-208e-4fde-a721-96c3cbb797f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Services/Testimonial/Testimonial/Title
+Signature: pd5Gbll3FQj35xTnHdVxHb5A0NIHhVhQJjHt3vrym74=
+Modified: 637739733448338538
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\templates\Services\Testimonial\Testimonial\Quote.yml
+ID: "861fe636-1545-4f59-aab8-b308293139a1"
+Parent: "d9cd3637-208e-4fde-a721-96c3cbb797f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Services/Testimonial/Testimonial/Quote
+Signature: QNWsItnZ/EG0l4OgSqelrJnKVI7FM2LrcdUC2JhbC2M=
+Modified: 637739733448338538

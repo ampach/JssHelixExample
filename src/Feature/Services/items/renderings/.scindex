@@ -1,0 +1,28 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\renderings\Services.yml
+ID: "5d8b84c1-3f62-4591-bbeb-1af1c860db1c"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/Services
+Signature: ZfPzZucixO+HD/YFpEP0Z31aw0yRPh87R1a/BtR7PN0=
+Modified: 637739733448338538
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\renderings\Services\Testimonial Container.yml
+ID: "3317f548-a9e0-4bb5-8ec9-2b91d3bea370"
+Parent: "5d8b84c1-3f62-4591-bbeb-1af1c860db1c"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Services/Testimonial Container
+Signature: mCnrPgiCQGdWIWKauUziPR2WK965a7lWM4RSeZ65EaE=
+Modified: 637739733448338538
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Services\items\renderings\Services\Testimonial.yml
+ID: "2c633fda-8335-4d81-ba70-68db06711c0f"
+Parent: "5d8b84c1-3f62-4591-bbeb-1af1c860db1c"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Services/Testimonial
+Signature: StF2aJo9sZtbEXY8Fikrq4e1/nP/8yFYxyZ9PvniEVs=
+Modified: 637739733448338538

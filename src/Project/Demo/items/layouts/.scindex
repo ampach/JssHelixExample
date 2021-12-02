@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\layouts\Demo.yml
+ID: "dcb3c921-7d58-4ab5-a257-c3112f4f89c3"
+Parent: "da04b275-8838-4a3a-afee-817cf1fdd2eb"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Project/Demo
+Signature: X5La7x9J7v/6G5MmpPKabmWzocm9p3k0eUpylWXuRyQ=
+Modified: 637739742835890250
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\layouts\Demo\Default.yml
+ID: "4ed48317-062f-4465-b9af-1e636841525b"
+Parent: "dcb3c921-7d58-4ab5-a257-c3112f4f89c3"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: /sitecore/layout/Layouts/Project/Demo/Default
+Signature: O/tsp6luIgG1R1bauZXgwffGK5N4gsOoDRpifEPjdU4=
+Modified: 637739742836331672

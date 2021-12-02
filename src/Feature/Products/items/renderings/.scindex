@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Products\items\renderings\Products.yml
+ID: "d14d4ff5-9eb0-409f-8503-4b5e7fb1ad1b"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/Products
+Signature: ZfPzZucixO+HD/YFpEP0Z31aw0yRPh87R1a/BtR7PN0=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Products\items\renderings\Products\Product Detail Header.yml
+ID: "4f577938-e122-432e-b95a-8fdd1f0a3691"
+Parent: "d14d4ff5-9eb0-409f-8503-4b5e7fb1ad1b"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Products/Product Detail Header
+Signature: Gyeo1U/PSuGJBIfzzUOB/sj7J43i2AKeEbGx90BOBYc=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Products\items\renderings\Products\Product Detail.yml
+ID: "165b981e-0814-40db-8394-85c3128d9595"
+Parent: "d14d4ff5-9eb0-409f-8503-4b5e7fb1ad1b"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Products/Product Detail
+Signature: A9deb46OpjmMGh5XqrWMo7RnDQRF1c1JEblI6M7Rqx8=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Products\items\renderings\Products\Product List.yml
+ID: "d91b7c6d-a10e-4b72-8327-5df0a8d79093"
+Parent: "d14d4ff5-9eb0-409f-8503-4b5e7fb1ad1b"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Products/Product List
+Signature: RoQMFt0PqLzr7BQ69Vze7bYM1U2XKu6wS0NIu1W7Yyg=
+Modified: 637739733448182141
+---
+File: |
+  D:\Data\Demo\Source\src\Feature\Products\items\renderings\Products\Related Products.yml
+ID: "3d321dfb-adf6-4e16-aeee-20494acbf1e5"
+Parent: "d14d4ff5-9eb0-409f-8503-4b5e7fb1ad1b"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Products/Related Products
+Signature: C48B0yhOKS2i+EoW8T9voVvhQXT0cQekcWd6W2eXtQk=
+Modified: 637739733448182141

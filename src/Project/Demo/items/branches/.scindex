@@ -1,0 +1,91 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\branches\Demo.yml
+ID: "4457dcb3-4cab-4952-ace2-636b6128fda3"
+Parent: "a1f6469d-16e1-4a5f-9e49-1aad869a5d11"
+Template: "85adbf5b-e836-4932-a333-fe0f9fa1ed1e"
+Path: /sitecore/templates/Branches/Project/Demo
+Signature: nH/1LPNtf6e2pGBLnb5d7V+ZvLYMb2kvSR68nJ1XUsc=
+Modified: 637739742835800270
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\branches\Demo\Home Page.yml
+ID: "52e10c7a-0853-4999-820e-ce0ca9b78d41"
+Parent: "4457dcb3-4cab-4952-ace2-636b6128fda3"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Branches/Project/Demo/Home Page
+Signature: 9pbvFZsm5z2mgb1e75HTjHntCaDi3X7R0LKCTt7ndcU=
+Modified: 637739742837356871
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\branches\Demo\Product List Page.yml
+ID: "b4649591-93b9-4151-8ebd-8aea5bb2d5b1"
+Parent: "4457dcb3-4cab-4952-ace2-636b6128fda3"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Branches/Project/Demo/Product List Page
+Signature: T7GcPWseKBpav+7/lG31saLUp3wwlLdf3Li+viAXHbk=
+Modified: 637739742838521249
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\branches\Demo\Home Page\_name.yml
+ID: "4e2b74b6-f4ef-40ec-a79b-3d840a1e5ccb"
+Parent: "52e10c7a-0853-4999-820e-ce0ca9b78d41"
+Template: "63cd29ba-0e08-44d5-ab10-e05298a9818d"
+Path: /sitecore/templates/Branches/Project/Demo/Home Page/$name
+Signature: vNwC783NIyKaZ52wBwUaM0Y/bTk5DBmgCI6/oTLC1rc=
+Modified: 637739742835103617
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\branches\Demo\Services Page\_name.yml
+ID: "caaa7704-a354-45da-a82e-9e4353d651a7"
+Parent: "cf36f320-5a92-4e15-83fc-676820448a63"
+Template: "81651c92-cf17-4751-9c9e-af87e3c2918c"
+Path: /sitecore/templates/Branches/Project/Demo/Services Page/$name
+Signature: qjc3PaaYCMYm+Bq/qpVszchu/sMSstadLKWmFoSNWUc=
+Modified: 637739742835143616
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\branches\Demo\Product List Page\_name\Page Components.yml
+ID: "623f74e1-c614-4774-932f-98d2a7727346"
+Parent: "78398e86-d86a-411a-9b20-f25400d5d6bd"
+Template: "7ba26fb3-7ab2-4e09-bb5a-e9d6cd048bba"
+Path: /sitecore/templates/Branches/Project/Demo/Product List Page/$name/Page Components
+Signature: 9Pd+YhLtaYOGuE4viBwBLjQ1pxAyr652ccI1RRDRSLw=
+Modified: 637739742838136283
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\branches\Demo\Services Page.yml
+ID: "cf36f320-5a92-4e15-83fc-676820448a63"
+Parent: "4457dcb3-4cab-4952-ace2-636b6128fda3"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Branches/Project/Demo/Services Page
+Signature: fWZPQJw6emdvyAtxj2mtAvEQ1VIJdQX6rvyaU6nvRpw=
+Modified: 637739742839370091
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\branches\Demo\Product List Page\_name.yml
+ID: "78398e86-d86a-411a-9b20-f25400d5d6bd"
+Parent: "b4649591-93b9-4151-8ebd-8aea5bb2d5b1"
+Template: "9f57204e-5ce2-4fe8-98f7-9823ec53e8cc"
+Path: /sitecore/templates/Branches/Project/Demo/Product List Page/$name
+Signature: P+/NVqBDevF9CDJFZfv/kS5R057n1F4eOTNE/r4zSHc=
+Modified: 637739742835173617
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\branches\Demo\Home Page\_name\Page Components.yml
+ID: "e996ba56-1c4f-4b65-91da-d209bc45c9e0"
+Parent: "4e2b74b6-f4ef-40ec-a79b-3d840a1e5ccb"
+Template: "7ba26fb3-7ab2-4e09-bb5a-e9d6cd048bba"
+Path: /sitecore/templates/Branches/Project/Demo/Home Page/$name/Page Components
+Signature: 9Pd+YhLtaYOGuE4viBwBLjQ1pxAyr652ccI1RRDRSLw=
+Modified: 637739742837982265
+---
+File: |
+  D:\Data\Demo\Source\src\Project\Demo\items\branches\Demo\Services Page\_name\Page Components.yml
+ID: "6e9a93ea-c3fe-44b4-bea7-4b8d40457bb8"
+Parent: "caaa7704-a354-45da-a82e-9e4353d651a7"
+Template: "7ba26fb3-7ab2-4e09-bb5a-e9d6cd048bba"
+Path: /sitecore/templates/Branches/Project/Demo/Services Page/$name/Page Components
+Signature: 9Pd+YhLtaYOGuE4viBwBLjQ1pxAyr652ccI1RRDRSLw=
+Modified: 637739742838176310
